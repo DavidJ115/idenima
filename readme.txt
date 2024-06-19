@@ -1,0 +1,1 @@
+Unicamente está el código de python, faltan las carpetas ejecutables para el html que se creará luego y el html de la app
